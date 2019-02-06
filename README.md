@@ -1,2 +1,2 @@
-This matlab code simulates Rayleigh Bernard Convection using the Chorin Scheme from computational fluid dynamics. 
+This matlab code simulates Rayleigh Bernard convection using the Chorin scheme from computational fluid dynamics. 
 ![](BoundaryConditions.jpg) 
